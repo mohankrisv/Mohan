@@ -1,1 +1,1 @@
-insert into Fargate_Test(col1) values('Farg7');                               
+insert into Fargate_Test(col1) values('Farg8');                               
